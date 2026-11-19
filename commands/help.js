@@ -5,9 +5,9 @@ const path = require('path');
 async function helpCommand(sock, chatId, message) {
     const helpMessage = `
 ╔═══════════════════╗
-   *🤖 ${settings.botName || 'LuckyTechHub-Bot'}🦾*  
+   *🤖 ${settings.botName || 'FAISAL AI BOT'}🦾*  
    Version: *${settings.version || '2.0.2'}*
-   by ${settings.botOwner || 'Lucky Tech Hub'}
+   by ${settings.botOwner || 'FAISAL AI BOT'}
    YT : ${global.ytch}
 ╚═══════════════════╝
 
@@ -93,6 +93,7 @@ async function helpCommand(sock, chatId, message) {
 
 ╔═══════════════════╗
 🤖 *AI Commands*:🤖
+║ ➤ .ai <question>
 ║ ➤ .gpt <question>
 ║ ➤ .gemini <question>
 ║ ➤ .imagine <prompt>
@@ -172,7 +173,7 @@ Join our channel for updates:`;
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363420656466131@newsletter',
-                        newsletterName: 'Lucky Tech Hub Bot',
+                        newsletterName: 'FAISAL AI BOT',
                         serverMessageId: -1
                     }
                 }
@@ -186,7 +187,7 @@ Join our channel for updates:`;
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363420656466131@newsletter',
-                        newsletterName: 'Lucky Tech Hub Bot by Lucky Tech Hub',
+                        newsletterName: 'FAISAL AI BOT',
                         serverMessageId: -1
                     } 
                 }
