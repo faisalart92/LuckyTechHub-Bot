@@ -100,7 +100,7 @@ const videoCommand = require('./commands/video');
 global.packname = settings.packname;
 global.author = settings.author;
 global.channelLink = "https://whatsapp.com/channel/0029VbAnuvT6RGJ9Qrf3NJ0L";
-global.ytch = "Lucky Tech Hub";
+global.ytch = "FAISAL AI BOT";
 
 // Add this near the top of main.js with other global configurations
 const channelInfo = {
@@ -109,7 +109,7 @@ const channelInfo = {
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
             newsletterJid: '120363420656466131@newsletter',
-            newsletterName: 'Lucky Tech Hub Bot',
+            newsletterName: 'FAISAL AI BOT',
             serverMessageId: -1
         }
     }
@@ -864,7 +864,7 @@ async function handleGroupParticipantUpdate(sock, update) {
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
                             newsletterJid: channelId,
-                            newsletterName: 'Lucky Tech Hub Bot',
+                            newsletterName: 'FAISAL AI BOT',
                             serverMessageId: -1
                         }
                     }
@@ -903,7 +903,7 @@ async function handleGroupParticipantUpdate(sock, update) {
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
                             newsletterJid: channelId,
-                            newsletterName: 'Lucky Tech Hub Bot',
+                            newsletterName: 'FAISAL AI BOT',
                             serverMessageId: -1
                         }
                     }
