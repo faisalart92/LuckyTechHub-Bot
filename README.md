@@ -1,16 +1,16 @@
-# 🤖 LuckyTechHub-Bot
+# 🤖 FAISAL AI BOT
 
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=LuckyTechHub-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Lucky218" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=FAISAL AI BOT;Multi+Device+Whatsapp+Bot;Coded+By+Original project author" alt="Typing SVG" />
   </a> 
 </div> 
 
 <div align="center"> 
   <a href="https://youtube.com/@luckytechhub-i9u"> 
-    <img src="https://github.com/luckytechhub1/LuckyTechHub-Bot/blob/main/assets/bot_image.jpg" alt="Lucky Tech Hub Bot" height="300"> 
+    <img src="https://github.com/luckytechhub1/FAISAL AI BOT/blob/main/assets/bot_image.jpg" alt="FAISAL AI BOT" height="300"> 
   </a> 
 </div>
 
@@ -20,10 +20,10 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 ### Step 1: Fork the Repository
 
-Click the button below to fork the Lucky Tech Hub Bot repository to your GitHub account:
+Click the button below to fork the FAISAL AI BOT repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/luckytechhub1/LuckyTechHub-Bot/fork">
+  <a href="https://github.com/luckytechhub1/FAISAL AI BOT/fork">
     <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
@@ -99,7 +99,7 @@ For further customization and setup guidance, click the button below:
 
 ## 📖 About
 
-The Lucky Tech Hub WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
+The FAISAL AI BOT WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
 
 It is lightweight and can be easily customized to add more commands as per your requirements. The bot runs in a Node.js environment and provides QR code-based authentication to link your WhatsApp account.
 
@@ -117,8 +117,8 @@ It is lightweight and can be easily customized to add more commands as per your 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/luckytechhub1/LuckyTechHub-Bot.git
-    cd LuckyTechHub-Bot
+    git clone https://github.com/luckytechhub1/FAISAL AI BOT.git
+    cd FAISAL AI BOT
     ```
 
 2. **Install the dependencies:**
@@ -142,24 +142,24 @@ It is lightweight and can be easily customized to add more commands as per your 
 
 ## 📄 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/luckytechhub1/LuckyTechHub-Bot/blob/main/LICENSE) file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/luckytechhub1/FAISAL AI BOT/blob/main/LICENSE) file for details.
 
 ---
 
 ## 🙌 Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/luckytechhub1/LuckyTechHub-Bot/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/luckytechhub1/FAISAL AI BOT/issues).
 
 ---
 
 ## 🌟 Show your support
 
-If you like this project, please give it a [⭐️ star on GitHub](https://github.com/luckytechhub1/LuckyTechHub-Bot)!
+If you like this project, please give it a [⭐️ star on GitHub](https://github.com/luckytechhub1/FAISAL AI BOT)!
 
 
 ## Credits
 
-- [Lucky218](https://github.com/luckytechhub)
+- [Original project author](https://github.com/luckytechhub)
 - [Baileys](https://github.com/adiwajshing/Baileys)
 - [TechGod143](https://github.com/TechGod143) for pair code
 - [Dgxeon](https://github.com/Dgxeon) for pair code
@@ -187,7 +187,7 @@ This project is licensed under the MIT License. However, you must:
 
 ## 📜 Copyright Notice
 
-Copyright (c) 2025 Lucky218. All rights reserved.
+Copyright (c) 2025 Original project author. All rights reserved.
 
 This project contains code from various open source projects:
 - Baileys (MIT License)
